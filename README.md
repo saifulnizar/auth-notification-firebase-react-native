@@ -1,2 +1,2 @@
 # auth-notification-firebase-react-native
-Config files for my GitHub profile.
+Program mobile sederhana dengan react-native  library firebase notification
